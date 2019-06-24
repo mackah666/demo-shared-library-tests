@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="GetCommitHashTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-06-22T12:00:42" hostname="michaels-MBP" time="0.063">
-  <properties/>
-  <testcase name="testCall" classname="GetCommitHashTest" time="0.063"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
