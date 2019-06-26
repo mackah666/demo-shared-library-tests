@@ -1,1 +1,1 @@
-[![Build Status](http://13.79.152.63:8080/buildStatus/icon?job=Shared-Libs-Project-Tests&build=1)](http://13.79.152.63:8080/job/Shared-Libs-Project-Tests/1/)
+[![Build Status](http://168.63.37.169:8080/buildStatus/icon?job=Shared-Libs-Project-Tests&build=1)](http://168.63.37.169:8080/job/Shared-Libs-Project-Tests/1/)
